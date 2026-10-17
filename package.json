@@ -1,0 +1,7 @@
+{
+  "name": "p3kad-root",
+  "private": true,
+  "scripts": {
+    "build": "cd app/frontend && yarn install && yarn build"
+  }
+}
